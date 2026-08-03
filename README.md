@@ -31,7 +31,7 @@ Develop a menu-driven program to generate different student reports.
 - User input handling
 - Input validation
 
-#Concepts Used
+# Concepts Used
 - Functions
 - Loops
 - Conditional Statements
